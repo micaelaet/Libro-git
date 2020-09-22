@@ -1,2 +1,4 @@
-Usuario: micaelaet
-Email: micaelaetcheverry.10@gmail.com
+Usuario1: micaelaet
+Email1: micaelaetcheverry.10@gmail.com
+Usuario2:laurana1991
+Email2:a.mansilla19@gmail.com
